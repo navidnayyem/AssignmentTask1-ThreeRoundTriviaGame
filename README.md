@@ -1,5 +1,5 @@
 # AssignmentTask1_ThreeRoundTriviaGame
-Course : CSE438 - Smart Phone Application Development (Software Used : Android Studio Version 4.0) API24 : Android 7.0 - Nougat
+Course : CSE438 - Smart Phone Application Development (AssignmentTask1) (Software Used : Android Studio Version 4.0) API24 : Android 7.0 - Nougat
 
 Create an three-round trivia game in Android using ListView and Timer. There will only be 2 activities. The layout of the first activity will be as follows-
 Round 1 (TextView)
